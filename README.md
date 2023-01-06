@@ -4,7 +4,7 @@ UNOFFICIAL Xiaomi Pad 5 nabu OrangeFox recovery
 ### !!!!!!WARNING!!!!!!! DO NOT FLASH THIS IMAGE, your tablet do not have recovery partition.
 
 #### Partial working OrangeFox for Xiaomi Pad5 (nabu)
-[![download](https://img.shields.io/github/downloads/serdeliuk/xiaomi-nabu-orangefox/total)](https://github.com/serdeliuk/xiaomi-nabu-orangefox/releases/download/1/xiaomi-nabu-orangefox.0.0.1.zip)
+[![download](https://img.shields.io/github/downloads/serdeliuk/xiaomi-nabu-orangefox/total)](https://github.com/serdeliuk/xiaomi-nabu-orangefox/releases/download/1/xiaomi-nabu-orangefox.0.0.2.zip)
 - The graphical interface do not work on device, only over adb
 - You can use the adb shell to repartition your device or do anything else
 - Cannot be flashed to the device, only fastboot boot can be used
